@@ -1,3 +1,3 @@
 # Calculadora em Dupla 
 
-Alison Sousa Costa   Lara evelyn
+Alison Sousa Costa        Lara Evelyn
